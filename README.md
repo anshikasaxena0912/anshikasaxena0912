@@ -4,7 +4,7 @@
 
 
 <!-- GIF -->
-<img align="right" height="300" width="500" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" />
+<img align="right" height="300" width="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRxaTltZXBkbGd2NG1tdHEwaWVvcjhkZnQxcGgxeGJ2NDB1eGIycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 
 <!-- Languages and Tools Section -->
