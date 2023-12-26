@@ -3,6 +3,9 @@
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/anshika-saxena-549390a8/" target="_blank" rel="noreferrer">Anshika</a> is a passionate DevOps Engineer, working on DevOps/Database Engineer with 8+ years</font></h3>
 
 
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Fanimations%2Fgirl-on-computer-with-idea-vKx1wtZe5l&psig=AOvVaw3fHR-ZXZAh_lI8QGmxsyYC&ust=1703696163085000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCL5ffIrYMDFQAAAAAdAAAAABAE" />
+
 
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
