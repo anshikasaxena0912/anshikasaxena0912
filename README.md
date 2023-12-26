@@ -15,6 +15,11 @@
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" title="bash" width="40 height="40" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> 
 
+#### Databases
+
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="Mysql" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="Oracle" width="40" height="40" />
 
 #### DevOps Stack 
 <p align="left">
