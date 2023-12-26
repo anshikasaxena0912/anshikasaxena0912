@@ -18,8 +18,8 @@
 #### Databases
 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="Mysql" width="40" height="40" />
-<img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="Oracle" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="Mysql" width="70" height="70" />
+<img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="Oracle" width="70" height="70" />
 
 #### DevOps Stack 
 <p align="left">
